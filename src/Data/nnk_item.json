@@ -1,0 +1,33 @@
+{"person": [
+    {
+    "name": "john",
+
+    "lastname": "Doe",
+    "interests": [
+      "hiking",
+      "skiing"
+    ],
+    "age": 40
+  },
+  {
+    "name": "john2",
+
+    "lastname": "Doe2",
+    "interests": [
+      "hiking",
+      "skiing"
+    ],
+    "age": 40
+  },{
+    "name": "john3",
+
+    "lastname": "Doe3",
+    "interests": [
+      "hiking",
+      "skiing"
+    ],
+    "age": 40
+  }
+
+]
+}
