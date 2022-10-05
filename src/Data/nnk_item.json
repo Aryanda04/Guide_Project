@@ -1,33 +1,39 @@
-{"person": [
+{"equipment": [
     {
-    "name": "john",
-
-    "lastname": "Doe",
-    "interests": [
-      "hiking",
-      "skiing"
-    ],
-    "age": 40
+      "item_name":"Fire Weapon Upgrade Stone",
+      "img_url":"https://thumbsnap.com/s/nzS7X3MG.jpg"
   },
   {
-    "name": "john2",
-
-    "lastname": "Doe2",
-    "interests": [
-      "hiking",
-      "skiing"
-    ],
-    "age": 40
-  },{
-    "name": "john3",
-
-    "lastname": "Doe3",
-    "interests": [
-      "hiking",
-      "skiing"
-    ],
-    "age": 40
-  }
-
+    "item_name":"Water Weapon Upgrade Stone",
+    "img_url":"https://thumbsnap.com/i/nmta8Zqm.png"
+},
+{
+  "item_name":"Earth Weapon Upgrade Stone",
+  "img_url":"https://thumbsnap.com/i/hXHaWpo9.png"
+},
+{
+  "item_name":"Light Weapon Upgrade Stone",
+  "img_url":"https://thumbsnap.com/i/pLfxhtVf.png"
+},
+{
+  "item_name":"Dark Weapon Upgrade Stone",
+  "img_url":"https://thumbsnap.com/i/pLfxhtVf.png"
+},
+{
+  "item_name":"General Weapon Upgrade Stone",
+  "img_url":"https://thumbsnap.com/i/pLfxhtVf.png"
+},
+{
+  "item_name":"Fire Weapon Upgrade Stone",
+  "img_url":"https://thumbsnap.com/s/nzS7X3MG.jpg"
+},
+{
+  "item_name":"Armor Weapon Upgrade Stone",
+  "img_url":"https://thumbsnap.com/i/e2nh77Kw.png"
+},
+{
+  "item_name":"Accessory Weapon Upgrade Stone",
+  "img_url":"https://thumbsnap.com/i/VJAgEqRa.png"
+}
 ]
 }
