@@ -1,39 +1,87 @@
 {"equipment": [
     {
       "item_name":"Fire Weapon Upgrade Stone",
-      "img_url":"https://thumbsnap.com/s/nzS7X3MG.jpg"
+      "img_url":"https://thumbsnap.com/s/nzS7X3MG.jpg",
+      "item_description":"Used to upgrade fire weapon"
   },
   {
     "item_name":"Water Weapon Upgrade Stone",
-    "img_url":"https://thumbsnap.com/i/nmta8Zqm.png"
+    "img_url":"https://thumbsnap.com/i/nmta8Zqm.png",
+    "item_description":"Used to upgrade water weapon"
 },
 {
   "item_name":"Earth Weapon Upgrade Stone",
-  "img_url":"https://thumbsnap.com/i/hXHaWpo9.png"
+  "img_url":"https://thumbsnap.com/i/hXHaWpo9.png",
+  "item_description":"Used to upgrade earth weapon"
 },
 {
   "item_name":"Light Weapon Upgrade Stone",
-  "img_url":"https://thumbsnap.com/i/pLfxhtVf.png"
+  "img_url":"https://thumbsnap.com/i/pLfxhtVf.png",
+  "item_description":"Used to upgrade light weapon"
 },
 {
   "item_name":"Dark Weapon Upgrade Stone",
-  "img_url":"https://thumbsnap.com/i/pLfxhtVf.png"
+  "img_url":"https://thumbsnap.com/i/pLfxhtVf.png",
+  "item_description":"Used to upgrade dark weapon"
 },
 {
   "item_name":"General Weapon Upgrade Stone",
-  "img_url":"https://thumbsnap.com/i/pLfxhtVf.png"
-},
-{
-  "item_name":"Fire Weapon Upgrade Stone",
-  "img_url":"https://thumbsnap.com/s/nzS7X3MG.jpg"
+  "img_url":"https://thumbsnap.com/i/pLfxhtVf.png",
+  "item_description":"Used to upgrade any weapon"
 },
 {
   "item_name":"Armor Weapon Upgrade Stone",
-  "img_url":"https://thumbsnap.com/i/e2nh77Kw.png"
+  "img_url":"https://thumbsnap.com/i/e2nh77Kw.png",
+  "item_description":"Used to upgrade armor"
 },
 {
   "item_name":"Accessory Weapon Upgrade Stone",
-  "img_url":"https://thumbsnap.com/i/VJAgEqRa.png"
+  "img_url":"https://thumbsnap.com/i/VJAgEqRa.png",
+  "item_description":"Used to upgrade accessories"
+},
+{
+  "item_name":"Normal Anvil",
+  "img_url":"https://thumbsnap.com/i/aYwvNDcf.png",
+  "item_description":"Used to repair equipment damaged during enchancement (For +10 to +20)"
+}
+],
+"familiars": [
+  {
+    "item_name":"Strechy Jelly",
+    "img_url":"https://thumbsnap.com/i/9g1Ya5He.png",
+    "item_description":"A jelly used ro enchance a familiar's ATK"
+},
+{
+  "item_name":"Tough Jelly",
+  "img_url":"https://thumbsnap.com/i/BnkpjDUF.png",
+  "item_description":"A jelly used ro enchance a familiar's DEF"
+},{
+  "item_name":"Fluffy Jelly",
+  "img_url":"https://thumbsnap.com/i/DWjhGXRw.png",
+  "item_description":"A jelly used ro enchance a familiar's HP"
+},{
+  "item_name":"Evolution Fruit : Fire",
+  "img_url":"https://thumbsnap.com/i/WBpJKDAn.png",
+  "item_description":"Used to evolve fire familiars"
+},
+{
+  "item_name":"Evolution Fruit : Water",
+  "img_url":"https://thumbsnap.com/i/jCpxjQeZ.png",
+  "item_description":"Used to evolve water familiars"
+
+},
+{
+  "item_name":"Evolution Fruit : Earth",
+  "img_url":"https://thumbsnap.com/i/Xvtr3TQx.png",
+  "item_description":"Used to evolve earth familiars"
+},{
+  "item_name":"Evolution Fruit : Light",
+  "img_url":"https://thumbsnap.com/i/18atXL3w.png",
+  "item_description":"Used to evolve light familiars"
+},{
+  "item_name":"Evolution Fruit : Dark",
+  "img_url":"https://thumbsnap.com/i/nQEwVZ17.png",
+  "item_description":"Used to evolve dark familiars"
 }
 ]
 }

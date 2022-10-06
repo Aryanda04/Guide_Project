@@ -35,24 +35,7 @@ const Item_Card = () => {
                     </td>
                     {/* <td>{res}</td> */}
                     {/* <td>{res.qty}</td> */}
-                    <td>
-                      <span>
-                        <button
-                          // onClick={handleEdit}
-                          // value={res.id}
-                          className="edit"
-                        >
-                          Modify
-                        </button>
-                        <button
-                          // onClick={handleDelete}
-                          // value={res.id}
-                          className="delete"
-                        >
-                          Delete
-                        </button>
-                      </span>
-                    </td>
+                    <td>{res.item_description}</td>
                   </tr>
                 );
               })}
