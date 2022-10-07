@@ -43,6 +43,26 @@
   "item_name":"Normal Anvil",
   "img_url":"https://thumbsnap.com/i/aYwvNDcf.png",
   "item_description":"Used to repair equipment damaged during enchancement (For +10 to +20)"
+},
+{
+  "item_name":"Weapon Recipe",
+  "img_url":"https://thumbsnap.com/i/q1CPcMNr.png",
+  "item_description":"Recipe used to craft weapon"
+},
+{
+  "item_name":"Armor Recipe",
+  "img_url":"https://thumbsnap.com/i/JxuaVj35.png",
+  "item_description":"Recipe used to craft armor"
+},
+{
+  "item_name":"Weapon Crystal",
+  "img_url":"https://thumbsnap.com/i/Buw6QFHK.png",
+  "item_description":"Material needed to craft weapon"
+},
+{
+  "item_name":"Armor Crystal",
+  "img_url":"https://thumbsnap.com/i/xVoWtvms.png",
+  "item_description":"Material needed to craft armor"
 }
 ],
 "familiars": [
