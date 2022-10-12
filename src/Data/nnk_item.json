@@ -63,6 +63,16 @@
   "item_name":"Armor Crystal",
   "img_url":"https://thumbsnap.com/i/xVoWtvms.png",
   "item_description":"Material needed to craft armor"
+},
+{
+  "item_name":"Armor Varnish",
+  "img_url":"https://thumbsnap.com/i/WvfroAR4.png",
+  "item_description":"Use to level up armor"
+},
+{
+  "item_name":"Accessory Varnish",
+  "img_url":"https://thumbsnap.com/i/3WauhyNq.png",
+  "item_description":"Use to level up accessory"
 }
 ],
 "familiars": [
